@@ -1,7 +1,7 @@
 # 💫 Sobre mí:
 ¡Hola!👋 Soy Selena, actualmente estoy finalizando mis estudios en Desarrollo de Aplicaciones Multiplataforma y, completando un Bootcamp de Desarrollo Web Full Stack💻.<br><br>
 Mi corazón siempre estuvo en la tecnología💙, empecé a explorar el mundo de la programación, y ahora estoy completamente enfocada en mi verdadera pasión 👩🏻‍💻<br><br>
-🚀 Mi propósito es seguir aprendiendo y evolucionando en este mundo que tanto me encanta, siempre abierta a nuevos desafíos y oportunidades 🌱
+🚀 Mi objetivo es tener la oportunidad de aplicar mis conocimientos y seguir creciendo profesionalmente en este mundo que tanto me encanta, siempre abierta a nuevos desafíos y oportunidades. 🌱
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/selenasanchezdevicente) 
